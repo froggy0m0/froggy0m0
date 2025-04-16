@@ -2,9 +2,17 @@
     <img src="https://github.com/froggy0m0/froggy0m0/blob/main/asset/logo.gif" />
 </div>
 
-<h3 align="center">❓ 호기심을 통해 문제를 해결하며 지식을 확장하고, 성취감을 느낍니다.</h3>
-<h3 align="center">✈️ 배운 지식으로 설계하고 해결해 나가는 여행을 즐기는 개발자입니다.</h3>
-<h3 align="center">⚙️ 반복적인 작업을 자동화하고, 프로세스를 개선합니다.</h3>
+<div align="center">
+Spring을 사용하던 개발자에서<br>
+<strong>Spring을 직접 설계하고 활용하는 개발자</strong>로<br>
+성장하고 있습니다.
+
+### **경량 Java Web Framework [`WinterFramework`](https://github.com/WinterFramework-org/winter-framework)** 를 개발 중이며<br><br>
+
+Spring의 핵심 개념들을 직접 구현하며<br>
+**프레임워크 내부 동작 방식에 대한 이해**를 쌓고 있습니다.
+</div>
+
 
 <br>
 <h3 align="center">✨ Tech Stack ✨</h3>
